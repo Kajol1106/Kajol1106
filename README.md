@@ -16,7 +16,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 - 📫 How to reach me **kolagirkajol@gmail.com**
 
-- 📫 How to reach me **https://kajol1106.github.io/**
+- 📫 My Portfolio **https://kajol1106.github.io/**
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">

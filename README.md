@@ -18,7 +18,7 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 - 🔭 Checkout my portfolio: **[Portfolio](https://kajol1106.github.io)**
 
-- 💼 See my resume: **[Resume](https://drive.google.com/file/d/1EjIMrWDdUXBhsL7QGzculnM-4NJQKDT-/view?usp=share_link)**
+- 💼 See my resume: **[Resume]([https://drive.google.com/file/d/1EjIMrWDdUXBhsL7QGzculnM-4NJQKDT-/view?usp=share_lin](https://drive.google.com/file/d/1EjIMrWDdUXBhsL7QGzculnM-4NJQKDT-/view?usp=sharing))**
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">

@@ -48,3 +48,11 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 <a href="https://github.com/Kajol1106/github-readme-activity-graph"><img alt="kajol's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kajol1106&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
+
+
+<h2><i>Random dev joke for you! </i></h2>
+
+<img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a> <!-- <a href="https://readme-jokes.vercel.app"> -->
+
+### Here's a Dev Quote incase you're not interested to read jokes!
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

@@ -54,5 +54,5 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a> <!-- <a href="https://readme-jokes.vercel.app"> -->
 
-<h2><i> Here's a Dev Quote incase you're not interested to read jokes! </i><h2>
+<h2><i> Here's a Dev Quote incase you're not interested to read jokes! </i></h2>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
